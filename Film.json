@@ -18,3 +18,23 @@
     }
   ]
 }
+{
+  "Titre": "Fight Club",
+  "Directeur": "David Fincher,",
+  "Auteur": "John Palahniuk, Jim Uhsl",
+  "Date": 1999,
+  "Vedette": [
+    {
+      "Nom": "Brad Pitt",
+      "Personnage": "Tyler Durden"
+    },
+    {
+      "Nom": "Meat Loaf",
+      "Personnage": "Robert 'Bob' Paulsen"
+    },
+    {
+      "Nom": "Zach Grenier",
+      "Personnage": "Richard Chesler"
+    }
+  ]
+}
